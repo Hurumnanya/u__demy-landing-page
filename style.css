@@ -1,0 +1,102 @@
+.topper{
+    display: flex;
+    padding: 20px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.topper img{
+    height: 40px;
+}
+
+.topper p{
+    margin-left: 20px;
+}
+
+.top_search{
+    display: flex;
+    background-color:#f7f9fa;
+    width: 40%;
+    align-items: center;
+    border-radius: 60px;
+    border: 1px solid black;
+    padding: 5x 10px;
+    margin-left: 20px;
+
+}
+
+.top_search input{
+    background: transparent;
+    border:0;
+    outline: none;
+    padding: 12px 10px;
+    
+}
+
+.top_search button img{
+    width: 20px;
+}
+
+.top_search button{
+    border: 0;
+    margin-left: 10px;
+    /* border-radius: 50%; */
+    width: 30px;
+    height: 41px;
+    background:#f7f9fa ;
+}
+
+#cart{
+    margin-left: 10px;
+}
+
+.login{
+    background-color: white;
+    color: black;
+    margin-left: 10px;
+    padding: 5px 15px;
+    font-weight:900;
+}
+
+.signup{
+    margin-left: 10px;
+    background-color: black;
+    color: white;
+    padding: 5px 15px;
+    font-weight:900;    
+}
+
+.language{
+    margin-left: 10px;
+    background-color: white;
+}
+
+.main_cover{
+    background: url(/images/udemylandingpage.jpg);
+    height: 350px;
+    padding-top: 50px;
+    margin-top: 20px;
+}
+
+.main_top{
+    text-align:center;
+    background-color: white;
+    background-size: cover;
+    margin-right: 900px;
+    margin-left: 80px;
+    margin-top: 30px;
+    /* padding-left: 20px; */
+    /* justify-items: left; */
+}
+
+.main_top h1{
+    margin-bottom: 0px;
+    font-size: 30px;
+}
+
+.main_top p{
+    margin-top: 0px;
+    padding-top: 0px;
+    font-size: 16px;
+}
+ 
